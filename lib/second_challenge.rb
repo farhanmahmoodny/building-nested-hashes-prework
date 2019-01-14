@@ -9,8 +9,8 @@ def second_challenge
     :capulet => {
       :patriarch => {},
       :matriarch => {},
-      :hero => {},
-      :hero_firends => []
+      :heroine => {},
+      :heroine_firends => []
       }
 }
   
