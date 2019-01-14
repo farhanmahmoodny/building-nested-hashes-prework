@@ -20,8 +20,8 @@ def bonus
    }
   }
 
-  epic_strategy[:montague][:hero][:status] = "dead"
-  epic_strategy[:capulet][:heroine][:status] = "dead"
+  epic_trategy[:montague][:hero][:status] = "dead"
+  epic_trategy[:capulet][:heroine][:status] = "dead"
 
   
 
